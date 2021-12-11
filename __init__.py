@@ -1,5 +1,5 @@
 bl_info = {
-	"name": "UVTest Override",
+	"name": "UVTest Material Override",
 	"author": "Kenetics",
 	"version": (0, 1),
 	"blender": (3, 0, 0),
